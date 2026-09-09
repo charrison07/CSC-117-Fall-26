@@ -1,0 +1,6 @@
+print("\ni will print you some fun facts about football!")
+print("there is a secret legal play where you can score 3 points by punting a kick into a field goal")
+print("a football\t is actually 120 yards, not just 100")
+print("footballs are nicknamed pigskins")
+print("the NFL record for longest\n field goal is 66 yards")
+print("jaxson dart is \"honestly\" the greatest QB of all time")
