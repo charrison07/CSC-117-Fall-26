@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: CJ Harrison
+# DATE: 9/14/26 
+# BRIEF DESCRIPTION: using the def glue_name() function to find out the first and last name  
 
 
 

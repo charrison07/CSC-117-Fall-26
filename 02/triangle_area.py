@@ -1,8 +1,8 @@
 # FILE NAME - triangle_area.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: CJ Harrison
+# DATE: 9/14/26 
+# BRIEF DESCRIPTION: using the define find_area() function to find the area of a triangle.  
 
 
 
