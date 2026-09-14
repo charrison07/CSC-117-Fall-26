@@ -16,7 +16,16 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+def find_area():
+    height = float(input("Enter the height: "))
+    base = float(input("Enter the base: "))
+    area = (height * base) / 2
+    print(f"The area of the triangle is {area}")
     
+
+find_area()
+       
+
     
     
     
