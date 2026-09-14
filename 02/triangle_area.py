@@ -21,7 +21,7 @@ def find_area():
     base = float(input("Enter the base: "))
     area = (height * base) / 2
     print(f"The area of the triangle is {area}")
-    
+
 
 find_area()
        
@@ -74,13 +74,14 @@ The area of the triangle is 16.0
 '''
 
 1. What is the flow of the program? Which line of code kicks off the process?
-
+I think the flow is the order of asking the height, base, and area. the def find_area()
+kicks it off.
 
 
 
 
 2. What was the hardest part of this lab?
-
+figuring out the structure of each command
 
 
 
