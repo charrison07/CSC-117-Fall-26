@@ -2,7 +2,8 @@
 
 # NAME: CJ Harrison 
 # DATE: 9/14/26
-# BRIEF DESCRIPTION:  
+# BRIEF DESCRIPTION: using the convert() command to convert inches over to feet
+ 
 
 
 
@@ -19,7 +20,15 @@
 # but also maybe the number of feet
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-    
+def convert():
+    inches = int(input("Enter the number of inches: "))
+    feet = inches // 12
+    remaining_inches = inches % 12
+    print(f"{inches} inches is {feet} feet, and {inches % 12} inches")
+
+convert()
+
+
     
     
     
@@ -67,6 +76,7 @@ Enter the number of inches: 100
 '''
 
 1. What does it mean to "cast" input from the user?
+it converts what you type into the data you need. (float is a good example)
 
 
 
