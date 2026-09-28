@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: CJ Harrison
+# DATE: 9/28/26
+# BRIEF DESCRIPTION: giving a compliment but using an else statement this time 
 
 
 
@@ -14,6 +14,19 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+compliment = input("Would you like a compliment? (yes/no) ")
+
+if compliment == "yes":
+    print("You have wonderful eyes.")
+    print("Thank you for playing.")
+
+if compliment == "no":
+    print("No compliment for you!.")
+    print("Thank you for playing.")
+
+else:
+    print("No compliment for you!.")
+    print("Thank you for playing.")
 
 
 
@@ -70,7 +83,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+no
 
 
 
